@@ -1,4 +1,4 @@
-import { render } from '@testing-library/react';
+
 import { Component } from 'react';
 import './App.css';
 import Header from './Components/header/header';
